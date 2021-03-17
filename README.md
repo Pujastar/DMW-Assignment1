@@ -8,7 +8,8 @@ numerical studies on the learning performance of SVMC based
 on Markov sampling for benchmark datasets.
 
 # Algorithm
-![image](https://user-images.githubusercontent.com/47221030/111443908-dd3e6a80-872f-11eb-828a-5e75a3e81ef3.png)
+![image](https://user-images.githubusercontent.com/47221030/111444692-a74db600-8730-11eb-89df-4bf969cfb863.png)
+
 
 # dataset
 magic dataset
