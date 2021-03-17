@@ -3,9 +3,7 @@
 
 # Abstart:
 We introduce a new Markov sampling algorithm for SVMC
-to generate u.e.M.c. samples from given dataset, and present the
-numerical studies on the learning performance of SVMC based
-on Markov sampling for benchmark datasets.
+to generate u.e.M.c. samples from Magic dataset.
 
 # Algorithm
 ![image](https://user-images.githubusercontent.com/47221030/111444692-a74db600-8730-11eb-89df-4bf969cfb863.png)
