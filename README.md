@@ -26,7 +26,9 @@ to generate u.e.M.c. samples from Magic dataset.
 
 # dataset
 magic dataset
+
 description of column
+
  1   fLength     19020 non-null  float64
  
  2   fWidth      19020 non-null  float64
