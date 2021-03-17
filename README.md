@@ -28,7 +28,11 @@ description of column
  
 # result
 ![image](https://user-images.githubusercontent.com/47221030/111444228-2a224100-8730-11eb-8dc3-2cd53b0165ea.png)
+
+
 mean misclassification rate for random sample with std (21.297318611987382, 0.2561270889440842)
 
 ![image](https://user-images.githubusercontent.com/47221030/111444299-3a3a2080-8730-11eb-8141-fe30ac975930.png)
+
+
 mean misclassification rate for markov sample (21.04968454258675, 0.24574694356243504)
