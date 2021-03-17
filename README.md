@@ -28,15 +28,25 @@ to generate u.e.M.c. samples from Magic dataset.
 magic dataset
 description of column
  1   fLength     19020 non-null  float64
+ 
  2   fWidth      19020 non-null  float64
+ 
  3   fSize       19020 non-null  float64
+ 
  4   fConc       19020 non-null  float64
+ 
  5   fConc1      19020 non-null  float64
+ 
  6   fAsym       19020 non-null  float64
+ 
  7   fM3Long     19020 non-null  float64
+ 
  8   fM3Trans    19020 non-null  float64
+ 
  9   fAlpha      19020 non-null  float64
+ 
  10  fDist       19020 non-null  float64
+ 
  11  class       19020 non-null  object
  
 # result
