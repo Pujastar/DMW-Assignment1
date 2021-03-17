@@ -16,6 +16,16 @@ iit2018191 (Puja Kumari)
 
 iit2018195 (Prabha Kumari)
 
+# how to use that code 
+
+1. open SVM_MARKOV.ipynb in google colab 
+
+2. upload the dataset Magic.csv
+
+3. run block wise
+
+4. you will get the result
+
 # Abstart:
 We introduce a new Markov sampling algorithm for SVMC
 to generate u.e.M.c. samples from Magic dataset.
