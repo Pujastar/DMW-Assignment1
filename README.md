@@ -1,10 +1,19 @@
 # DMW-Assignment1
 6th semester DMW Assignment-implementation of generalisation ability of svm based on markov sampling
 members:
+
+
 iit2018117 (Palak Mittal)
+
+
 iit2018119 (Nehal Singh)
+
+
 iit2018187 (Abhishek Kumar Gupta)
+
+
 iit2018191 (Puja Kumari)
+
 iit2018195 (Prabha Kumari)
 
 # Abstart:
