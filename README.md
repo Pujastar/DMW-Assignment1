@@ -71,3 +71,7 @@ mean misclassification rate for random sample with std (21.297318611987382, 0.25
 
 
 mean misclassification rate for markov sample (21.04968454258675, 0.24574694356243504)
+
+# refrence
+
+[1] J. Xu et al., "The Generalization Ability of SVM Classification Based on Markov Sampling," in IEEE Transactions on Cybernetics, vol. 45, no. 6, pp. 1169-1179, June 2015, doi: 10.1109/TCYB.2014.2346536.
